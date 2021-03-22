@@ -1,4 +1,4 @@
-# Double-Dueling-DQN-to-control-traffic-lights-on-SUMO
+# A Deep Reinforcement Learning Network for Traffic Light Cycle Control
 
 This is the implementation of paper: "A Deep Reinforcement Learning Network for Traffic Light Cycle Control", IEEE Transactions on Vehicular Technology, Vol. 68, Iss. 2, pp. 1243 - 1253. Feb. 2019. DOI: 10.1109/TVT.2018.2890726: https://par.nsf.gov/servlets/purl/10119183, https://ieeexplore.ieee.org/document/8600382
 
